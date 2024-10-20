@@ -1,6 +1,6 @@
 ### Hi there, I'm Nitesh Kumar! 👋
 
-I'm a 3rd-year CSE undergraduate at IIT Ropar, passionate about software development, full-stack web development, and data science with ML and AI.
+I'm a 4rd-year CSE undergraduate at IIT Ropar, passionate about software development, full-stack web development, and data science with ML and AI.
 
 🌱 I’m currently learning more about AI and ML techniques to enhance my skills in data science.
 
