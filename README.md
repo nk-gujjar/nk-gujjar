@@ -1,51 +1,43 @@
-### Hi there, I'm Nitesh Kumar! 👋
+### Hi, I'm Nitesh Kumar 👋
 
-I'm a 4rd-year CSE undergraduate at IIT Ropar, passionate about software development, full-stack web development, and data science with ML and AI.
+I'm a recent Computer Science graduate from **IIT Ropar** (2021–2025), passionate about **software development**, **AI engineering**, **full-stack web development**, and **machine learning**. I enjoy building intelligent systems that combine real-world data, modern web technologies, and scalable backend architectures.
 
-🌱 I’m currently learning more about AI and ML techniques to enhance my skills in data science.
 
-👯 I’m looking to collaborate on open source projects related to web development or data science.
+🚀 **Currently working on:**  
+- Real-time cattle recognition & re-identification system using deep learning  
+- AI-powered voice-interactive Google Form filler  
+- Full-stack apps integrating LLMs and computer vision  
 
-💬 Ask me about anything related to programming, web development, or data science. I'm happy to help!
+🤝 **Looking to collaborate on:**  
+- Open-source projects in web dev, AI, or data science  
+- Scalable and impactful tech solutions  
 
-📫 How to reach me: [niteshgurjar2612@gmail.com](mailto:niteshgurjar2612@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-gurjar/)
+🧠 **Learning & Exploring:**  
+- Continual learning in ML  
+- Efficient vision pipelines  
+- Backend optimization and system design  
 
-😄 Pronouns: He/Him
+📫 **Reach me at:**  
+- 📧 [1niteshgurjar3433@gmail.com](mailto:1niteshgurjar3433@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-gurjar/)
+- 🌐 [Portfolio](https://nitesh-kumar3433.vercel.app/)
 
-⚡ Fun fact: I'm also a sports person and play Hockey to represent my college!
+⚡ **Fun fact:** I represented IIT Ropar in **Hockey** at Inter IIT Sports Meet!
 
-### Skills
+---
 
-- **Programming Languages:** 
-  - C/C++ 💻
-  - HTML/CSS 🌐
-  - JavaScript 📜
-  - Python 🐍
-  - SQL 🗃️
-- **Web Development:** 
-  - HTML/CSS 🌐
-  - JavaScript 📜
-  - React.js ⚛️
-  - Node.js 🚀
-  - Express 🚂
-  - MongoDB 🍃
-  - Three.js 🎨
-  - RISC-V 💻
-- **Data Science:** 
-  - Python Programming 🐍
-  - Numpy 📊
-  - Pandas 🐼
-  - Matplotlib 📈
-  - Seaborn 📊
-  - Scikit-learn 🧠
-  - Tensorflow 🤖
-  - Keras 🧠
-- **Developer Tools and Others:** 
-  - VS Code 🖥️
-  - Git 🛠️
-  - GitHub 🐙
-  - Linux 🐧
-  - Jupyter Notebook 📓
-  - Google Colab 📊
-  - Power BI 💼
-  - Excel 📊
+### 🔧 Tech Stack
+
+#### 👨‍💻 Programming  
+`C/C++` · `Python` · `JavaScript` · `HTML/CSS` · `SQL` · `RISC-V`
+
+#### 🌐 Web Development  
+`React.js` · `Node.js` · `Express` · `MongoDB` · `Three.js`
+
+#### 📊 AI & ML  
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn`  
+`Scikit-learn` · `TensorFlow` · `Keras` · `LLM`· `Langchain`
+
+#### 🛠️ Tools & Platforms  
+`VS Code` · `Git & GitHub` · `Linux` · `Jupyter Notebook`  
+`Google Colab` · `Power BI` · `Excel`
